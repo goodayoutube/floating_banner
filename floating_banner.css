@@ -1,0 +1,9 @@
+#floatMenu {
+	position: absolute;
+  margin-left: 70%;
+	width: 330px;
+	height: 500px;
+	left: 50px;
+	top: 10px;
+	background-color: #606060;
+}
